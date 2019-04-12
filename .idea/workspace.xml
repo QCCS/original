@@ -2,53 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10c6fea5-3595-4962-b802-03f1dd92befb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitmodules" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/hexo-blog.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/2019/04/12/hello-world/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/2019/04/12/hello-world1/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/2019/04/12/post-title-with-whitespace/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/2019/04/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/2019/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/archives/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/categories/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/content.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/icomoon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/fonts/selection.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/jquery.fitvids.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/search.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/search.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/hello-world.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/tags/object-Object/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scaffolds/draft.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scaffolds/page.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scaffolds/post.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/hello-world1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/_posts/post-title-with-whitespace.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/categories/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/tags/hello-world.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source/tags/index.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tag/_posts/hello-world.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tag/_posts/hello-world1.md" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/tag/_posts/post-title-with-whitespace.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/material-flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/material-flow" afterPath="$PROJECT_DIR$/themes/material-flow" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -257,32 +215,6 @@
               <item name="hexo-blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hexo-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="scaffolds" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="material-flow" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -334,12 +266,12 @@
       <option name="presentableId" value="Default" />
       <updated>1555049964481</updated>
       <workItem from="1555049967709" duration="6537000" />
-      <workItem from="1555059787592" duration="1375000" />
+      <workItem from="1555059787592" duration="1448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7912000" />
+    <option name="totallyTimeSpent" value="7985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
