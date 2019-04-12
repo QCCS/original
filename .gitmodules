@@ -1,0 +1,6 @@
+[submodule "themes/aria"]
+	path = themes/aria
+	url = https://github.com/AlynxZhou/hikaru-theme-aria
+[submodule "hexo-theme-Anatole"]
+	path = hexo-theme-Anatole
+	url = https://github.com/Ben02/hexo-theme-Anatole.git
