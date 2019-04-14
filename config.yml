@@ -1,10 +1,10 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
-
+# Site
 # Site
 title: qianchaochushui
-subtitle: subtitle
+subtitle: 技术博客
 avatar: https://avatars3.githubusercontent.com/u/13073380?s=460&v=4
 description: weichat:qianchaochushui
 keywords: [Node javascript CSS React Vue]
@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://qccs.github.io
-root: /
+root: ./
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -74,10 +74,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: material-flow
-
-auto_excerpt:
-  enable: true
-  length: 150
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
